@@ -1,2 +1,2 @@
 # Oasis
-Oasis: Software for automated MD simulation setup using OpenMM.
+Oasis: Software for automated MD simulation setup.
